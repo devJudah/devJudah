@@ -6,7 +6,7 @@
 </h2>
 -->
 <p align="center">
-  <img src="devJudah.png" alt="Judah Olaobaju Banner" />
+  <img src="info" alt="Judah Olaobaju Banner" />
 </p>
 
 
