@@ -5,9 +5,10 @@
   
 </h2>
 -->
+<p align="center">
+  <img src="devJudah.png" alt="Judah Olaobaju Banner" />
+</p>
 
-<h1 align="center">Hi, I'm Judah 👋</h1>
-<h3 align="center">Software Engineer | .NET Expert | Cloud Developer</h3>
 
 <h2 align="center">
   
