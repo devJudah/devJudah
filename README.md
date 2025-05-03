@@ -62,16 +62,6 @@ Software Engineer currently based in the UK — open to global remote opportunit
 
 ---
 
-<h2 align="center">GitHub Stats & Codewars</h2>
-
-<p align="center">
-  <img src="https://www.codewars.com/users/your-codewars-username/badges/large">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
-</p>
-
 ---
 
 <p align="center">🚀 I’m passionate about clean code, scalable systems, and solving real-world problems with software.</p>
