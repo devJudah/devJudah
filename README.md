@@ -34,12 +34,8 @@ Software Engineer currently based in the UK — open to global remote opportunit
     <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
   </a>
   
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="https://github.com/devJudah" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-
-  <a href="https://github.com/your-github-username/your-repo-name/blob/main/cv.pdf" target="_blank">
-    <img src=https://img.shields.io/badge/View%20My%20CV-Click%20Here-blue?style=for-the-badge alt=cv style="margin-bottom: 5px;" />
   </a>
 </div>
 
