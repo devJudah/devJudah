@@ -1,8 +1,14 @@
+<!--
 <h2 align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FFFF&center=true&size=30&lines=Hi+there+👋,+I'm+Judah;Software+Engineer+|+.NET+Expert+|+Cloud+Developer)
   
 </h2>
+-->
+
+<p align="center">
+  <img src="devJudah.png" alt="Judah Olaobaju Banner" />
+</p>
 
 <h2 align="center">
   
